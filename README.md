@@ -50,6 +50,9 @@ Table of contents:
 * [zewa666/generator-aurelia](https://github.com/zewa666/generator-aurelia) Yeoman generator for the JavaScript Framework Aurelia by @zewa666
 * [kristianmandrup/generator-aurelia-ts](https://github.com/kristianmandrup/generator-aurelia-ts) Turbo Start generator for Aurelia apps by @kristianmandrup
 
+### Examples
+
+* [jdanyow/aurelia-breeze-northwind](https://github.com/jdanyow/aurelia-breeze-northwind) A Northwind demo using Aurelia and Breeze by @jdanyow.
 
 ### TypeScript
 > TypeScript lets you write JavaScript the way you really want to.
