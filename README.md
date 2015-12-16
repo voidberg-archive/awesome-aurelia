@@ -46,12 +46,12 @@ Table of contents:
 
 #### Aurelia Tutorials
 
-### Angular 2 Generators
+### Aurelia Generators
 * [zewa666/generator-aurelia](https://github.com/zewa666/generator-aurelia) Yeoman generator for the JavaScript Framework Aurelia by @zewa666
 * [kristianmandrup/generator-aurelia-ts](https://github.com/kristianmandrup/generator-aurelia-ts) Turbo Start generator for Aurelia apps by @kristianmandrup
 
 
-### Angular 2 in TypeScript
+### TypeScript
 > TypeScript lets you write JavaScript the way you really want to.
 TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
