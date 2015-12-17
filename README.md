@@ -45,6 +45,7 @@ Table of contents:
 * [Aurelia Getting Started Cheat Sheet by ErikCH](http://www.cheatography.com/erikch/cheat-sheets/aurelia-getting-started/)
 
 #### Aurelia Tutorials
+* [Aurelia Value Converters](https://jdanyow.github.io/aurelia-converters-sample/)
 
 ### Aurelia Generators
 * [zewa666/generator-aurelia](https://github.com/zewa666/generator-aurelia) Yeoman generator for the JavaScript Framework Aurelia by @zewa666
