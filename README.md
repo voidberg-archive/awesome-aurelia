@@ -31,7 +31,7 @@ Table of contents:
 * [Official Site](https://aurelia.io/)
 * [Official Blog](http://blog.durandal.io/)
 * [Official Documentation](http://aurelia.io/docs.html)
-* [Official Getting Started Guide](http://aurelia.io/get-started.html)
+* [Official Getting Started Guide](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/getting-started)
 * [Official GitHub Repo](https://github.com/aurelia/framework)
 
 #### Aurelia Community
