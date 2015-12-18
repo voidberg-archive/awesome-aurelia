@@ -53,6 +53,7 @@ Table of contents:
 ### Examples
 
 * [jdanyow/aurelia-breeze-northwind](https://github.com/jdanyow/aurelia-breeze-northwind) A Northwind demo using Aurelia and Breeze by @jdanyow.
+* [jdanyow/aurelia-solitaire](https://github.com/jdanyow/aurelia-solitaire) Klondike solitaire built with Aurelia and dragula.
 
 ### TypeScript
 > TypeScript lets you write JavaScript the way you really want to.
