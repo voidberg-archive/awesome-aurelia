@@ -13,8 +13,11 @@ Table of contents:
 * [Aurelia](#aurelia)
   * [Aurelia General Resources](#aurelia-general-resources)
   * [Aurelia Community](#aurelia-community)
+  * [Blogs about Aurelia](#aurelia-blogs)
   * [Aurelia Cheatsheet](#aurelia-cheatsheet)
   * [Aurelia Tutorials](#aurelia-tutorials)
+  * [Aurelia Podcasts](#aurelia-podcasts)
+  * [Aurelia Videos](#aurelia-videos)
   * [Aurelia Generators](#aurelia-generators)
 
 * [TypeScript](#aurelia-in-typescript)
@@ -30,22 +33,44 @@ Table of contents:
 #### Aurelia General Resources
 * [Official Site](https://aurelia.io/)
 * [Official Blog](http://blog.durandal.io/)
+* [Rob's other Blog](http://eisenbergeffect.bluespire.com/)
 * [Official Documentation](http://aurelia.io/docs.html)
+* [API Documentation](http://aurelia.io/docs.html#/api/home)
 * [Official Getting Started Guide](http://aurelia.io/docs.html#/aurelia/framework/latest/doc/article/getting-started)
 * [Official GitHub Repo](https://github.com/aurelia/framework)
 
 #### Aurelia Community
 * [`#aurelia`](https://twitter.com/hashtag/aurelia) hashtag on Twitter
+* [Rob Eisenberg on Twitter](https://twitter.com/eisenbergeffect)
 * [Gitter Channel](https://gitter.im/aurelia/discuss)
 * [Aurelia StackOverflow](http://stackoverflow.com/questions/tagged/aurelia)
 * [/r/Aureliajs Subreddit](http://www.reddit.com/r/aureliajs/)
 * [Aurelia on Google+](https://plus.google.com/communities/103785338632993439883)
+
+#### Blogs about Aurelia
+- [Personal blog of Australian Front End / Aurelia Javascript Developer Dwayne Charrington](http://ilikekillnerds.com/category/javascript/aurelia/)
+- [Personal blog on Aurelia dev / Developer Jeremy Danyow] (http://www.danyow.net/)
+- [Personal blog on Aurelia dev / Developer 'Adriatic'](http://blog.aurelia-guides.com/)
+- [Personal blog on Aurelia dev / Developer Patrick Walters aka 'PWKAD'](http://patrickwalters.net/)
+- [Personal blog on Aurelia dev / Developer Don Wilcox aka 'drdwilcox'](http://drdwilcox.blogspot.com/)
+- [Personal blog on Aurelia dev / Developer Michael Lambert](http://hobbit-on-aurelia.net/)
+- [Personal blog on Aurelia dev / Developer Sean Hunter](http://sean-hunter.io/)
+- [Personal blog on Aurelia dev / Developer Paul van Bladel](http://blog.opinionatedapps.com/)
 
 #### Aurelia Cheatsheet
 * [Aurelia Getting Started Cheat Sheet by ErikCH](http://www.cheatography.com/erikch/cheat-sheets/aurelia-getting-started/)
 
 #### Aurelia Tutorials
 * [Aurelia Value Converters](https://jdanyow.github.io/aurelia-converters-sample/)
+
+#### Aurelia Podcasts
+- 08.04.2015 [Herding Code 203: Rob Eisenberg on Aurelia](http://herdingcode.com/herding-code-203-rob-eisenberg-on-aurelia/)
+- 06.02.2015 [The Changelog #140: Aurelia, Durandal, and leaving AngularJS with Rob Eisenberg](http://5by5.tv/changelog/140)
+- 02.02.2015 [The Web Platform Podcast : 38: Aurelia.io](http://thewebplatform.libsyn.com/38-aureliaio)
+
+## Aurelia Videos  ##
+- 12.11.2015 [Rob Eisenberg on Aurelia | DEVIntersection 2015 | Channel 9](https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia)
+- 10.12.2015 [Jeremy Danyow on Binding | Readthesource 12](https://www.youtube.com/watch?v=NyxGZYgOCuo)
 
 ### Aurelia Generators
 * [zewa666/generator-aurelia](https://github.com/zewa666/generator-aurelia) Yeoman generator for the JavaScript Framework Aurelia by @zewa666
