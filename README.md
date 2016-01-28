@@ -69,6 +69,7 @@ Table of contents:
 - 02.02.2015 [The Web Platform Podcast : 38: Aurelia.io](http://thewebplatform.libsyn.com/38-aureliaio)
 
 ## Aurelia Videos  ##
+- 01.11.2016 [Rob Eisenberg | Aurelia: Next Generation Web Apps | NDC {London} ](https://vimeo.com/153090562)
 - 12.11.2015 [Rob Eisenberg on Aurelia | DEVIntersection 2015 | Channel 9](https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia)
 - 10.12.2015 [Jeremy Danyow on Binding | Readthesource 12](https://www.youtube.com/watch?v=NyxGZYgOCuo)
 - 12.16.2015 [Ashley Grant on Custom Components in Aurelia | Dev Chat](https://www.youtube.com/watch?v=KOCiYJAWXeQ)
