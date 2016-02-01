@@ -46,6 +46,7 @@ Table of contents:
 * [Aurelia StackOverflow](http://stackoverflow.com/questions/tagged/aurelia)
 * [/r/Aureliajs Subreddit](http://www.reddit.com/r/aureliajs/)
 * [Aurelia on Google+](https://plus.google.com/communities/103785338632993439883)
+* [Aurelia AMA (Ask Me Anything)](https://hashnode.com/ama/with-aurelia-team-cijv67apt000o535313ewe3qo)
 
 #### Blogs about Aurelia
 - [Personal blog of Australian Front End / Aurelia Javascript Developer Dwayne Charrington](http://ilikekillnerds.com/category/javascript/aurelia/)
