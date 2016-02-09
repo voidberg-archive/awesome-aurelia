@@ -95,6 +95,7 @@ Table of contents:
 
 * [jdanyow/aurelia-breeze-northwind](https://github.com/jdanyow/aurelia-breeze-northwind) A Northwind demo using Aurelia and Breeze by @jdanyow.
 * [jdanyow/aurelia-solitaire](https://github.com/jdanyow/aurelia-solitaire) Klondike solitaire built with Aurelia and dragula.
+* [discosultan/aurelia-minesweeper](https://github.com/discosultan/aurelia-minesweeper/) Classic Minesweeper game built with Aurelia by @discosultan.
 
 ### TypeScript
 
