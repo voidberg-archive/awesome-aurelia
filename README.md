@@ -63,6 +63,7 @@ Table of contents:
 * [Personal blog on Aurelia dev / Developer Michael Lambert](http://hobbit-on-aurelia.net/)
 * [Personal blog on Aurelia dev / Developer Sean Hunter](http://sean-hunter.io/)
 * [Personal blog on Aurelia dev / Developer Paul van Bladel](http://blog.opinionatedapps.com/)
+* [Personal blog of Aurelia developer Matthew James Davis](http://davismj.me/)
 
 #### Aurelia Cheatsheet
 
