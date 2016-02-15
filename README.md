@@ -75,10 +75,10 @@ Table of contents:
 
 #### Aurelia Podcasts
 
-* 02.11.2016 [Adventures in Angular Podcast: Aurelia with Rob Eisenberg](https://devchat.tv/adventures-in-angular/080-aia-aurelia-with-rob-eisenberg)
-* 08.04.2015 [Herding Code 203: Rob Eisenberg on Aurelia](http://herdingcode.com/herding-code-203-rob-eisenberg-on-aurelia/)
-* 06.02.2015 [The Changelog #140: Aurelia, Durandal, and leaving AngularJS with Rob Eisenberg](http://5by5.tv/changelog/140)
-* 02.02.2015 [The Web Platform Podcast : 38: Aurelia.io](http://thewebplatform.libsyn.com/38-aureliaio)
+* 02/11/2016 [Adventures in Angular Podcast: Aurelia with Rob Eisenberg](https://devchat.tv/adventures-in-angular/080-aia-aurelia-with-rob-eisenberg)
+* 04/08/2015 [Herding Code 203: Rob Eisenberg on Aurelia](http://herdingcode.com/herding-code-203-rob-eisenberg-on-aurelia/)
+* 02/06/2015 [The Changelog #140: Aurelia, Durandal, and leaving AngularJS with Rob Eisenberg](http://5by5.tv/changelog/140)
+* 02/02/2015 [The Web Platform Podcast : 38: Aurelia.io](http://thewebplatform.libsyn.com/38-aureliaio)
 
 ## Aurelia Videos
 
