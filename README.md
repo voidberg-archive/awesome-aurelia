@@ -75,6 +75,7 @@ Table of contents:
 
 #### Aurelia Podcasts
 
+* 02/22/2016 [No Fluff Just Stuff Podcast: Checking out Aurelia with Peter Pavlovich](http://blog.nofluffjuststuff.com/2016/02/22/podcast-checking-out-aurelia-with-peter-pavlovich/)
 * 02/11/2016 [Adventures in Angular Podcast: Aurelia with Rob Eisenberg](https://devchat.tv/adventures-in-angular/080-aia-aurelia-with-rob-eisenberg)
 * 04/08/2015 [Herding Code 203: Rob Eisenberg on Aurelia](http://herdingcode.com/herding-code-203-rob-eisenberg-on-aurelia/)
 * 02/06/2015 [The Changelog #140: Aurelia, Durandal, and leaving AngularJS with Rob Eisenberg](http://5by5.tv/changelog/140)
