@@ -89,6 +89,9 @@ Table of contents:
 * 12/09/2015 [Jakub Jedryszek | Aurelia - The next generation JavaScript framework you will love | SeattleCodeCamp](https://vimeo.com/152733803)
 * 11/12/2015 [Rob Eisenberg on Aurelia | DEVIntersection 2015 | Channel 9](https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia)
 
+### Aurelia Books
+* [Aurelia for Real World Applications](https://leanpub.com/aurelia-for-real-world-applications) by Dwayne Charrington
+
 ### Aurelia Generators
 
 * [zewa666/generator-aurelia](https://github.com/zewa666/generator-aurelia) Yeoman generator for the JavaScript Framework Aurelia by @zewa666
