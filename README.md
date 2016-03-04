@@ -91,6 +91,7 @@ Table of contents:
 * 11/12/2015 [Rob Eisenberg on Aurelia | DEVIntersection 2015 | Channel 9](https://channel9.msdn.com/Events/Seth-on-the-Road/DevIntersection-2015/Rob-Eisenberg-on-Aurelia)
 
 ### Aurelia Books
+
 * [Aurelia for Real World Applications](https://leanpub.com/aurelia-for-real-world-applications) by Dwayne Charrington
 
 ### Aurelia Generators
