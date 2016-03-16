@@ -72,6 +72,7 @@ Table of contents:
 #### Aurelia Tutorials
 
 * [Aurelia Value Converters](https://jdanyow.github.io/aurelia-converters-sample/)
+* [Aurelia & Framework7 vs. Angular2 & Ionic2](http://www.jujens.eu/posts/en/2016/Mar/15/ionic2-aurelia-f7/)
 
 #### Aurelia Podcasts
 
