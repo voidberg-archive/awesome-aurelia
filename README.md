@@ -29,6 +29,9 @@ Table of contents:
 * [ES5](#aurelia-in-es5)
   * [Seed Projects](#es5-seed-projects)
 
+* [Meteor](#aurelia-with-meteor)
+  * [Seed Projects](#meteor-seed-projects)
+
 ### Aurelia
 
 > Aurelia is a next gen JavaScript client framework for mobile, desktop and web that leverages simple conventions to empower your creativity.
@@ -130,6 +133,14 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### ES5 Seed Projects
 
 * [ahmedshuhel/nav-app-es5](https://github.com/ahmedshuhel/nav-app-es5) Skeleton that sets up a standard aurelia navigation-style app just using ES5, Bower and RequireJS by @ahmedshuhel.
+
+### Aurelia with Meteor
+
+> Meteor is a full stack JavaScript platform which can use Aurelia as its front-end framework.
+
+#### Meteor Seed Projects
+
+* [TsumiNa/meteor-aurelia](https://github.com/TsumiNa/meteor-aurelia) Skeleton that allows Meteor to use Aurelia as the front-end by @TsumiNa.
 
 ## Contributors
 
